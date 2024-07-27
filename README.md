@@ -2,7 +2,7 @@
 
 Composable data loading for Ruby
 
-[![Build Status](https://github.com/ankane/torchdata-ruby/workflows/build/badge.svg?branch=master)](https://github.com/ankane/torchdata-ruby/actions)
+[![Build Status](https://github.com/ankane/torchdata-ruby/actions/workflows/build.yml/badge.svg)](https://github.com/ankane/torchdata-ruby/actions)
 
 ## Installation
 
